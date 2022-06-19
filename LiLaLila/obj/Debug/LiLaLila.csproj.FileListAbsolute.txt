@@ -1,0 +1,386 @@
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\LiLaLila.dll.config
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\LiLaLila.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\LiLaLila.pdb
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\csc.exe
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\csi.exe
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\csi.exe.config
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Console.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\BL.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\DTO.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Helpers.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Http.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Mvc.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Razor.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Webpages.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\AutoMapper.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\DAL.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\EntityFramework.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.ValueTuple.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\BL.pdb
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\BL.dll.config
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\DTO.pdb
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Razor.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Webpages.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Helpers.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Mvc.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Http.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\AutoMapper.pdb
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\AutoMapper.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\DAL.pdb
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\DAL.dll.config
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\EntityFramework.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.ValueTuple.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.CopyComplete
+C:\Users\user\source\repos\LiLaLila\LiLaLila\obj\Debug\LiLaLila.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\obj\Debug\LiLaLila.pdb
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Cors.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.xml
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.dll.config
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.pdb
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.exe
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.exe.config
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.rsp
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.exe
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.exe.config
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.rsp
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Managed.Core.targets
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.AppContext.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Collections.Immutable.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Console.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Compression.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Reflection.Metadata.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.AccessControl.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Claims.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Principal.Windows.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.ValueTuple.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XmlDocument.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.exe
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.exe.config
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.rsp
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe.config
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\BL.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\DTO.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.Web.Infrastructure.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\Newtonsoft.Json.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Cors.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Helpers.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Mvc.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Razor.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.ValueTuple.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\BL.pdb
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\BL.dll.config
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\DTO.pdb
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Razor.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Helpers.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Mvc.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\Newtonsoft.Json.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.pdb
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.pdb
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.dll.config
+C:\lila lila\C#\LiLaLila\LiLaLila\bin\System.ValueTuple.xml
+C:\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csprojAssemblyReference.cache
+C:\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.CopyComplete
+C:\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.dll
+C:\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.dll.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.exe
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.exe
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\BL.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\DTO.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Cors.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Helpers.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Mvc.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Razor.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.ValueTuple.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\BL.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\BL.dll.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.dll.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\DTO.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Razor.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Helpers.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Mvc.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\bin\System.ValueTuple.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.CopyComplete
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.dll.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\LiLaLila.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.exe
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.exe
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\BL.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\DTO.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Cors.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Helpers.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Mvc.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Razor.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.ValueTuple.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\BL.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\BL.dll.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\DAL.dll.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\DTO.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.Cors.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Razor.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Helpers.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Mvc.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\AutoMapper.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\bin\System.ValueTuple.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.csproj.CopyComplete
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\LiLaLila\obj\Debug\LiLaLila.pdb

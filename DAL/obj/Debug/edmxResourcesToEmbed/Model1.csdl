@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LilelileModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Email">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameSend" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Phon" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="subjectSend" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="massage" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameImage" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ImageCaption" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Filevalue" Type="Binary" MaxLength="50" FixedLength="true" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Products__ImageI__4AB81AF0" FromRole="Images" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Photos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameP" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Products__PhotoI__49C3F6B7" FromRole="Photos" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameProdact" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TypeProductId" Type="Int32" />
+    <Property Name="SupplierId" Type="Int32" />
+    <Property Name="Length" Type="Int32" />
+    <Property Name="Width" Type="Int32" />
+    <Property Name="height" Type="Int32" />
+    <Property Name="Weight" Type="Int32" />
+    <Property Name="DescriptionProduct" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Yearsofwarranty" Type="Int32" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Active" Type="Boolean" />
+    <Property Name="salePrice" Type="Int32" />
+    <Property Name="OperatingDate" Type="DateTime" Precision="0" />
+    <Property Name="PhotoId" Type="Int32" />
+    <Property Name="ImageId" Type="Int32" />
+    <NavigationProperty Name="Images" Relationship="Self.FK__Products__ImageI__4AB81AF0" FromRole="Products" ToRole="Images" />
+    <NavigationProperty Name="Photos" Relationship="Self.FK__Products__PhotoI__49C3F6B7" FromRole="Products" ToRole="Photos" />
+    <NavigationProperty Name="Suppliers" Relationship="Self.FK__Products__Suppli__48CFD27E" FromRole="Products" ToRole="Suppliers" />
+    <NavigationProperty Name="TypeProduct" Relationship="Self.FK__Products__TypePr__47DBAE45" FromRole="Products" ToRole="TypeProduct" />
+  </EntityType>
+  <EntityType Name="Requests">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IsDone" Type="Boolean" />
+    <Property Name="InsertDate" Type="DateTime" Precision="0" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Requests__UserId__3B75D760" FromRole="Requests" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="User" Relationship="Self.FK__User__RolesId__38996AB5" FromRole="Roles" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Suppliers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameS" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Products__Suppli__48CFD27E" FromRole="Suppliers" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="TypeProduct">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameT" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Products__TypePr__47DBAE45" FromRole="TypeProduct" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Mail" Type="String" MaxLength="35" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Active" Type="Boolean" />
+    <Property Name="RolesId" Type="Int32" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Requests" Relationship="Self.FK__Requests__UserId__3B75D760" FromRole="User" ToRole="Requests" />
+    <NavigationProperty Name="Roles" Relationship="Self.FK__User__RolesId__38996AB5" FromRole="User" ToRole="Roles" />
+  </EntityType>
+  <Association Name="FK__Products__ImageI__4AB81AF0">
+    <End Role="Images" Type="Self.Images" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Images">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="ImageId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__PhotoI__49C3F6B7">
+    <End Role="Photos" Type="Self.Photos" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Photos">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="PhotoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Suppli__48CFD27E">
+    <End Role="Suppliers" Type="Self.Suppliers" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Suppliers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="SupplierId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__TypePr__47DBAE45">
+    <End Role="TypeProduct" Type="Self.TypeProduct" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeProduct">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="TypeProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Requests__UserId__3B75D760">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Requests" Type="Self.Requests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Requests">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User__RolesId__38996AB5">
+    <End Role="Roles" Type="Self.Roles" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RolesId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LilelileEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Email" EntityType="Self.Email" />
+    <EntitySet Name="Images" EntityType="Self.Images" />
+    <EntitySet Name="Photos" EntityType="Self.Photos" />
+    <EntitySet Name="Products" EntityType="Self.Products" />
+    <EntitySet Name="Requests" EntityType="Self.Requests" />
+    <EntitySet Name="Roles" EntityType="Self.Roles" />
+    <EntitySet Name="Suppliers" EntityType="Self.Suppliers" />
+    <EntitySet Name="TypeProduct" EntityType="Self.TypeProduct" />
+    <EntitySet Name="User" EntityType="Self.User" />
+    <AssociationSet Name="FK__Products__ImageI__4AB81AF0" Association="Self.FK__Products__ImageI__4AB81AF0">
+      <End Role="Images" EntitySet="Images" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__PhotoI__49C3F6B7" Association="Self.FK__Products__PhotoI__49C3F6B7">
+      <End Role="Photos" EntitySet="Photos" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Suppli__48CFD27E" Association="Self.FK__Products__Suppli__48CFD27E">
+      <End Role="Suppliers" EntitySet="Suppliers" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__TypePr__47DBAE45" Association="Self.FK__Products__TypePr__47DBAE45">
+      <End Role="TypeProduct" EntitySet="TypeProduct" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Requests__UserId__3B75D760" Association="Self.FK__Requests__UserId__3B75D760">
+      <End Role="User" EntitySet="User" />
+      <End Role="Requests" EntitySet="Requests" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User__RolesId__38996AB5" Association="Self.FK__User__RolesId__38996AB5">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

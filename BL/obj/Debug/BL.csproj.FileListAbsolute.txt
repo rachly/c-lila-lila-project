@@ -1,0 +1,102 @@
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\BL.dll.config
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\BL.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\BL.pdb
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\AutoMapper.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\AutoMapper.EF6.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\DAL.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\DelegateDecompiler.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\DelegateDecompiler.EntityFramework.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\DTO.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\Mono.Reflection.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\DAL.pdb
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\DAL.dll.config
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\DTO.pdb
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\AutoMapper.pdb
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\AutoMapper.xml
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\LiLaLila\BL\bin\Debug\System.ValueTuple.xml
+C:\Users\user\source\repos\LiLaLila\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LiLaLila\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\source\repos\LiLaLila\BL\obj\Debug\BL.dll
+C:\Users\user\source\repos\LiLaLila\BL\obj\Debug\BL.pdb
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\BL.dll.config
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\BL.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\BL.pdb
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.EF6.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\DelegateDecompiler.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\DelegateDecompiler.EntityFramework.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\DTO.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\Mono.Reflection.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\System.ValueTuple.dll
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.pdb
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.dll.config
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\DTO.pdb
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.pdb
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.xml
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.xml
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\lila lila\C#\LiLaLila\BL\bin\Debug\System.ValueTuple.xml
+C:\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csproj.CopyComplete
+C:\lila lila\C#\LiLaLila\BL\obj\Debug\BL.dll
+C:\lila lila\C#\LiLaLila\BL\obj\Debug\BL.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\BL.dll.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\BL.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\BL.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.EF6.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\DelegateDecompiler.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\DelegateDecompiler.EntityFramework.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\DTO.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\Mono.Reflection.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.dll.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\DTO.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\obj\Debug\BL.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\BL\obj\Debug\BL.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\BL.dll.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\BL.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\BL.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.EF6.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\DelegateDecompiler.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\DelegateDecompiler.EntityFramework.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\DTO.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\Mono.Reflection.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\DAL.dll.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\DTO.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\AutoMapper.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\obj\Debug\BL.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\BL\obj\Debug\BL.pdb

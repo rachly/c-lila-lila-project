@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\LiLaLila\DTO\bin\Debug\DTO.dll
+C:\Users\user\source\repos\LiLaLila\DTO\bin\Debug\DTO.pdb
+C:\Users\user\source\repos\LiLaLila\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LiLaLila\DTO\obj\Debug\DTO.dll
+C:\Users\user\source\repos\LiLaLila\DTO\obj\Debug\DTO.pdb
+C:\lila lila\C#\LiLaLila\DTO\bin\Debug\DTO.dll
+C:\lila lila\C#\LiLaLila\DTO\bin\Debug\DTO.pdb
+C:\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.dll
+C:\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.pdb
+C:\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DTO\bin\Debug\DTO.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DTO\bin\Debug\DTO.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DTO\bin\Debug\DTO.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DTO\bin\Debug\DTO.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c2dfd417d45d464aaaa80cc39a9243ae" Name="Diagram1">
+        <EntityTypeShape EntityType="LilelileModel.Photos" Width="1.5" PointX="5.875" PointY="4" />
+        <EntityTypeShape EntityType="LilelileModel.Requests" Width="1.5" PointX="0.5" PointY="2.5" />
+        <EntityTypeShape EntityType="LilelileModel.Suppliers" Width="1.5" PointX="5.625" PointY="0.5" />
+        <EntityTypeShape EntityType="LilelileModel.TypeProduct" Width="1.5" PointX="3.875" PointY="0.5" />
+        <EntityTypeShape EntityType="LilelileModel.Products" Width="1.5" PointX="7.875" PointY="0.75" />
+        <AssociationConnector Association="LilelileModel.FK__Products__PhotoI__75A278F5" />
+        <AssociationConnector Association="LilelileModel.FK__Products__Suppli__74AE54BC" />
+        <AssociationConnector Association="LilelileModel.FK__Products__TypePr__73BA3083" />
+        <EntityTypeShape EntityType="LilelileModel.Images" Width="1.5" PointX="3.75" PointY="3.75" />
+        <AssociationConnector Association="LilelileModel.FK__Products__ImageI__76969D2E" />
+        <EntityTypeShape EntityType="LilelileModel.Roles" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="LilelileModel.User" Width="1.5" PointX="2.125" PointY="0.5" />
+        <AssociationConnector Association="LilelileModel.FK__Requests__UserId__239E4DCF" />
+        <AssociationConnector Association="LilelileModel.FK__User__RolesId__1273C1CD" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

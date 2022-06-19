@@ -1,0 +1,46 @@
+C:\Users\user\source\repos\LiLaLila\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\source\repos\LiLaLila\DAL\bin\Debug\DAL.dll
+C:\Users\user\source\repos\LiLaLila\DAL\bin\Debug\DAL.pdb
+C:\Users\user\source\repos\LiLaLila\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\LiLaLila\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\LiLaLila\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LiLaLila\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\source\repos\LiLaLila\DAL\obj\Debug\DAL.dll
+C:\Users\user\source\repos\LiLaLila\DAL\obj\Debug\DAL.pdb
+C:\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.dll.config
+C:\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.dll
+C:\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.pdb
+C:\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.dll
+C:\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.xml
+C:\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.dll
+C:\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.pdb
+C:\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.dll
+C:\Users\user\Downloads\אלי ליליה לילה-20220614T074145Z-001\אלי ליליה לילה\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.dll
+C:\Users\user\Downloads\lila lila\lila lila\lila lila\C#\LiLaLila\DAL\obj\Debug\DAL.pdb
