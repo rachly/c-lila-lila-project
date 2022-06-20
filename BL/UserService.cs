@@ -32,6 +32,7 @@ namespace BL
                return MapperGlobal.mapper.Map<UserDTO>(newUser);
             }
         }
+
         public UserDTO UpdateUser(UserDTO userDTO)
         {
             using (LilelileEntities db = new LilelileEntities())
