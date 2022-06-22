@@ -31,9 +31,9 @@ namespace DAL
         public Nullable<int> PhotoId { get; set; }
         public Nullable<int> ImageId { get; set; }
     
-        public virtual Images Images { get; set; }
         public virtual Photos Photos { get; set; }
         public virtual Suppliers Suppliers { get; set; }
         public virtual TypeProduct TypeProduct { get; set; }
+        public virtual Images Images { get; set; }
     }
 }

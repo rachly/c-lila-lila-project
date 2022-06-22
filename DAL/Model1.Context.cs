@@ -26,7 +26,6 @@ namespace DAL
         }
     
         public virtual DbSet<Email> Email { get; set; }
-        public virtual DbSet<Images> Images { get; set; }
         public virtual DbSet<Photos> Photos { get; set; }
         public virtual DbSet<Products> Products { get; set; }
         public virtual DbSet<Requests> Requests { get; set; }
@@ -34,5 +33,6 @@ namespace DAL
         public virtual DbSet<Suppliers> Suppliers { get; set; }
         public virtual DbSet<TypeProduct> TypeProduct { get; set; }
         public virtual DbSet<User> User { get; set; }
+        public virtual DbSet<Images> Images { get; set; }
     }
 }

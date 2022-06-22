@@ -9,6 +9,6 @@ namespace DTO
    public class SpuplierDTO
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string NameS { get; set; }
     }
 }

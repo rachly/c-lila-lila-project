@@ -18,7 +18,7 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="NameImage" Type="varchar" MaxLength="50" />
     <Property Name="ImageCaption" Type="varchar" MaxLength="50" />
-    <Property Name="Filevalue" Type="binary" MaxLength="50" />
+    <Property Name="Filevalue" Type="image" />
   </EntityType>
   <EntityType Name="Photos">
     <Key>

@@ -11,16 +11,6 @@
     <Property Name="subjectSend" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="massage" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
   </EntityType>
-  <EntityType Name="Images">
-    <Key>
-      <PropertyRef Name="Id" />
-    </Key>
-    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-    <Property Name="NameImage" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="ImageCaption" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="Filevalue" Type="Binary" MaxLength="50" FixedLength="true" />
-    <NavigationProperty Name="Products" Relationship="Self.FK__Products__ImageI__4AB81AF0" FromRole="Images" ToRole="Products" />
-  </EntityType>
   <EntityType Name="Photos">
     <Key>
       <PropertyRef Name="Id" />
@@ -49,10 +39,10 @@
     <Property Name="OperatingDate" Type="DateTime" Precision="0" />
     <Property Name="PhotoId" Type="Int32" />
     <Property Name="ImageId" Type="Int32" />
-    <NavigationProperty Name="Images" Relationship="Self.FK__Products__ImageI__4AB81AF0" FromRole="Products" ToRole="Images" />
     <NavigationProperty Name="Photos" Relationship="Self.FK__Products__PhotoI__49C3F6B7" FromRole="Products" ToRole="Photos" />
     <NavigationProperty Name="Suppliers" Relationship="Self.FK__Products__Suppli__48CFD27E" FromRole="Products" ToRole="Suppliers" />
     <NavigationProperty Name="TypeProduct" Relationship="Self.FK__Products__TypePr__47DBAE45" FromRole="Products" ToRole="TypeProduct" />
+    <NavigationProperty Name="Images" Relationship="LilelileModel.FK__Products__ImageI__4AB81AF0" FromRole="Products" ToRole="Images" />
   </EntityType>
   <EntityType Name="Requests">
     <Key>
@@ -106,18 +96,6 @@
     <NavigationProperty Name="Requests" Relationship="Self.FK__Requests__UserId__3B75D760" FromRole="User" ToRole="Requests" />
     <NavigationProperty Name="Roles" Relationship="Self.FK__User__RolesId__38996AB5" FromRole="User" ToRole="Roles" />
   </EntityType>
-  <Association Name="FK__Products__ImageI__4AB81AF0">
-    <End Role="Images" Type="Self.Images" Multiplicity="0..1" />
-    <End Role="Products" Type="Self.Products" Multiplicity="*" />
-    <ReferentialConstraint>
-      <Principal Role="Images">
-        <PropertyRef Name="Id" />
-      </Principal>
-      <Dependent Role="Products">
-        <PropertyRef Name="ImageId" />
-      </Dependent>
-    </ReferentialConstraint>
-  </Association>
   <Association Name="FK__Products__PhotoI__49C3F6B7">
     <End Role="Photos" Type="Self.Photos" Multiplicity="0..1" />
     <End Role="Products" Type="Self.Products" Multiplicity="*" />
@@ -180,7 +158,6 @@
   </Association>
   <EntityContainer Name="LilelileEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Email" EntityType="Self.Email" />
-    <EntitySet Name="Images" EntityType="Self.Images" />
     <EntitySet Name="Photos" EntityType="Self.Photos" />
     <EntitySet Name="Products" EntityType="Self.Products" />
     <EntitySet Name="Requests" EntityType="Self.Requests" />
@@ -188,10 +165,6 @@
     <EntitySet Name="Suppliers" EntityType="Self.Suppliers" />
     <EntitySet Name="TypeProduct" EntityType="Self.TypeProduct" />
     <EntitySet Name="User" EntityType="Self.User" />
-    <AssociationSet Name="FK__Products__ImageI__4AB81AF0" Association="Self.FK__Products__ImageI__4AB81AF0">
-      <End Role="Images" EntitySet="Images" />
-      <End Role="Products" EntitySet="Products" />
-    </AssociationSet>
     <AssociationSet Name="FK__Products__PhotoI__49C3F6B7" Association="Self.FK__Products__PhotoI__49C3F6B7">
       <End Role="Photos" EntitySet="Photos" />
       <End Role="Products" EntitySet="Products" />
@@ -212,5 +185,32 @@
       <End Role="Roles" EntitySet="Roles" />
       <End Role="User" EntitySet="User" />
     </AssociationSet>
+    <EntitySet Name="Images" EntityType="LilelileModel.Images" />
+    <AssociationSet Name="FK__Products__ImageI__4AB81AF0" Association="LilelileModel.FK__Products__ImageI__4AB81AF0">
+      <End Role="Images" EntitySet="Images" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
   </EntityContainer>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameImage" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ImageCaption" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Filevalue" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Products" Relationship="LilelileModel.FK__Products__ImageI__4AB81AF0" FromRole="Images" ToRole="Products" />
+  </EntityType>
+  <Association Name="FK__Products__ImageI__4AB81AF0">
+    <End Type="LilelileModel.Images" Role="Images" Multiplicity="0..1" />
+    <End Type="LilelileModel.Products" Role="Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Images">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="ImageId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
 </Schema>

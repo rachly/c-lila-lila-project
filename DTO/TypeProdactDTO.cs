@@ -9,6 +9,6 @@ namespace DTO
    public class TypeProductDTO
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string NameT { get; set; }
     }
 }

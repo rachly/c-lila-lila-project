@@ -17,7 +17,8 @@ namespace LiLaLila.Controllers
         [HttpGet]
         public List<SpuplierDTO> GetAllSpupliers()
         {
-            return serviceSuppliier.GetAllSuplier();
+           var c=  serviceSuppliier.GetAllSuplier();
+            return c;
         }
 
 

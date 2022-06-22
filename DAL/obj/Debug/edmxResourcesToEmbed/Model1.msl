@@ -13,16 +13,6 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="Images">
-      <EntityTypeMapping TypeName="LilelileModel.Images">
-        <MappingFragment StoreEntitySet="Images">
-          <ScalarProperty Name="Id" ColumnName="Id" />
-          <ScalarProperty Name="NameImage" ColumnName="NameImage" />
-          <ScalarProperty Name="ImageCaption" ColumnName="ImageCaption" />
-          <ScalarProperty Name="Filevalue" ColumnName="Filevalue" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="Photos">
       <EntityTypeMapping TypeName="LilelileModel.Photos">
         <MappingFragment StoreEntitySet="Photos">
@@ -101,6 +91,16 @@
           <ScalarProperty Name="Active" ColumnName="Active" />
           <ScalarProperty Name="RolesId" ColumnName="RolesId" />
           <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Images">
+      <EntityTypeMapping TypeName="LilelileModel.Images">
+        <MappingFragment StoreEntitySet="Images">
+          <ScalarProperty Name="Filevalue" ColumnName="Filevalue" />
+          <ScalarProperty Name="ImageCaption" ColumnName="ImageCaption" />
+          <ScalarProperty Name="NameImage" ColumnName="NameImage" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
