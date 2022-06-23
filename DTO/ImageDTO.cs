@@ -12,5 +12,7 @@ namespace DTO
         public string NameImage { get; set; }
         public string ImageCaption { get; set; }
 
+        public byte[] Filevalue { get; set; }
+
     }
 }
