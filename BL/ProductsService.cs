@@ -18,7 +18,7 @@ namespace BL
        {
             using (LilelileEntities db = new LilelileEntities())
           {
-                List<Products> p = db.Products.Where(x =>x.TypeProductId==type&& whithnotActive || x.Active == true).ToList();
+                List<Products> p = db.Products.Where(x =>x.TypeProductId==type && (whithnotActive || x.Active == true)).ToList();
               List<ProductsDTO> f= MapperGlobal.mapper.Map<List<ProductsDTO>>(p);
                return f;
            }
