@@ -23,8 +23,45 @@ namespace BL
                return f;
            }
        }
-      
-       
+
+
+        public List<ProductsDTO> getAllRestaurants(bool whithnotActive, int type,int page, int count, ref int sum)
+        {
+            using (LilelileEntities db = new LilelileEntities())
+            {
+                int from = (page) * count;
+                sum = db.Products.Count();
+                if (sum < from)
+                    return null;
+                if (sum < from + count)
+                {
+                    count = sum - from;
+                }
+
+                List<Products> p = db.Products.Where(x => x.TypeProductId == type && (whithnotActive || x.Active == true)).ToList();
+                if (p.Count() < count)
+                {
+                    count = p.Count();
+                }
+                List<Products>b= p.GetRange(from, count).ToList();
+                List<ProductsDTO> f = MapperGlobal.mapper.Map<List<ProductsDTO>>(b);
+                return f;
+            }
+        }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
         /// <summary>
         ///הוספת מוצר  
         /// </summary>

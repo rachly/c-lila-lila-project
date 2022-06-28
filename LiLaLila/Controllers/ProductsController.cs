@@ -15,15 +15,18 @@ namespace LiLaLila.Controllers
     public class ProductsController : ApiController
     {
         ProductsService serviceP = new ProductsService();
-        public List<ProductsDTO> GetAllP(int type)
+        public List<ProductsDTO> GetAllP(int type,int page,int limit)
         {
-            return serviceP.GetAllProducts(false,type);
+            int sum = 0;
+            return serviceP.getAllRestaurants(false,type,page,limit,ref sum);
         }
         [Route("api/Products/GetAllPWhithNotActive")]
-        public List<ProductsDTO> GetAllPWhithNotActive(int type)
+        public List<ProductsDTO> GetAllPWhithNotActive(int type, int page, int limit)
         {
-            return serviceP.GetAllProducts(true,type);
+            int sum = 0;
+            return serviceP.getAllRestaurants(true, type, page, limit,ref sum);
         }
+
         [HttpPost]
           public IHttpActionResult setP(ProductsDTO product)
         {
