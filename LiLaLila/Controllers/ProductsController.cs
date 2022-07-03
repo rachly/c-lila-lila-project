@@ -21,11 +21,18 @@ namespace LiLaLila.Controllers
             return serviceP.getAllRestaurants(false,type,page,limit,ref sum);
         }
         [Route("api/Products/GetAllPWhithNotActive")]
-        public List<ProductsDTO> GetAllPWhithNotActive(int type, int page, int limit)
+        public IHttpActionResult GetAllPWhithNotActive(int type, int page, int limit)
         {
             int sum = 0;
-            return serviceP.getAllRestaurants(true, type, page, limit,ref sum);
+           // return serviceP.getAllRestaurants(true, type, page, limit, ref sum);
+              var arr = serviceP.getAllRestaurants(true, type, page, limit, ref sum);
+              return Ok(new { arr, sum });
         }
+   // }
+        //public int GetSumOfAllProudect(int sum)
+        //{
+        //    return serviceP.getSumOfAllProudect(sum);
+        //}
 
         [HttpPost]
           public IHttpActionResult setP(ProductsDTO product)
